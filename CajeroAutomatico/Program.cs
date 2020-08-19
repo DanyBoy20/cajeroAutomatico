@@ -1,10 +1,5 @@
-﻿using CajeroAutomatico.Datos;
-using CajeroAutomatico.Modelos;
+﻿using CajeroAutomatico.Modelos;
 using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace CajeroAutomatico
 {
