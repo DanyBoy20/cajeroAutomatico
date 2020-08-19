@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace CajeroAutomatico.Modelos
 {
-    class CajeroAutomatico
+    class ATM
     {
         // ------------ INSTANCIAS DE CLASE Y ASIGNO VALORES A VARIABLES (Y ARREGLOS) -------------------//
 
