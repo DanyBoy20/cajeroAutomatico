@@ -1,4 +1,5 @@
-﻿using System;
+﻿using CajeroAutomatico.Datos;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -11,7 +12,7 @@ namespace CajeroAutomatico.Modelos
         // ------------ INSTANCIAS DE CLASE Y ASIGNO VALORES A VARIABLES (Y ARREGLOS) -------------------//
 
         // MENUS - INSTANCIA DE CLASE PARA LLAMAR A LOS MENUS CUANDO SE NECESITEN
-        Menus menu = new Menus();
+        Menu menu = new Menu();
 
         int dineroEnCaja = 5000; // variable para contener la cantidad de dinero existente en cajero
 
